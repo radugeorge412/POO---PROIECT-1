@@ -1,0 +1,5 @@
+Se defineste clasa teatru avand ca membrii: denumire_piesa, nr_Actori, actori, rating;
+Membrul "actori" este un vector alocat dinamic de obiecte din calsa actor ce contine ca membri privati: nume_actor(string), varsta;
+
+Cerinte:  constructori, destructori, supraincarcare operatori >>, <<, supraincarcare = si operatori de comparare;
+          Citire vector dinamic de teatre, compararea a doua teatre , modificarea informatiei din meniu si afisarea tuturor obiectelor.
